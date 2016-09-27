@@ -1,0 +1,19 @@
+{
+  "name": "gulp-typescript-2.0-types",
+  "version": "1.0.0",
+  "description": "testing out if @types are being included by gulp-typescript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.0.1",
+    "typescript": "^2.0.3"
+  },
+  "dependencies": {
+    "@types/jquery": "^2.0.32"
+  }
+}
